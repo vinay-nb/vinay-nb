@@ -38,8 +38,7 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Working Process of Node.js](https://www.geeksforgeeks.org/working-process-of-node-js/)
-- [Blockchain Technology ](https://medium.com/@vinaybhathg11/blockchain-technology-96e1e2729650?source=friends_link&sk=1b43da714340b9f5a89b41eb0063ef85)
+- [vinaytechblog](https://vinaytechblogs.netlify.app/)
 
 <!-- BLOG-POST-LIST:END -->
 
