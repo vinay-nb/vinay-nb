@@ -1,9 +1,9 @@
 ### Hi there, I'm Vinay Bhat 👋
 
 
-## I'm a MCA Student, Learner, MERN Stack Developer 
+## I'm a MCA Student, Learner, Providing Solution to Problems with help of Code 
 
-- 🔭 I’m currently working on my Portfolio Site!
+- 🔭 I’m currently working on android app and ML project!
 - 👯 Upskilling my problem solving skills
 - ⚡ Fun fact: I love to capture stunning landscape!!
 
@@ -45,8 +45,8 @@
 
 ---
 
-
+[linkedin]: https://linkedin.com/in/vinay-nb
 [twitter]: https://twitter.com/vinay_nb7
 [instagram]: https://instagram.com/vinay_nb7
-[linkedin]: https://linkedin.com/in/vinay-nb
+
 
