@@ -1,9 +1,9 @@
 ### Hi there, I'm Vinay Bhat 👋
 
 
-## I'm a MCA Student, Learner, Providing Solution to Problems with help of Code 
+## Software Engineer, Learner, Providing Solution to Problems with help of Code 
 
-- 🔭 I’m currently working on android app and ML project!
+- 🔭 I’m currently working on UI!
 - 👯 Upskilling my problem solving skills
 - ⚡ Fun fact: I love to capture stunning landscape!!
 
