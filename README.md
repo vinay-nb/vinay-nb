@@ -1,7 +1,7 @@
 ### Hi there, I'm Vinay Bhat 👋
 
 
-## Software Engineer, Learner, Providing Solution to Problems with help of Code 
+## Frontend Developer, Learner, Providing Solution to Problems with help of Code 
 
 - 🔭 I’m currently working on UI!
 - 👯 Upskilling my problem solving skills
