@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay-nb&label=Profile%20views&color=0e75b6&style=flat" alt="vinay-nb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinay-nb" alt="vinay-nb" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/vinay_nb7" target="blank"><img src="https://img.shields.io/twitter/follow/vinay_nb7?logo=twitter&style=for-the-badge" alt="vinay_nb7" /></a> </p>
 
 - 🔭 I’m currently working on [Foodie](https://github.com/vinay-nb/Foodie)
