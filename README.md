@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay Bhat</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay-nb&label=Profile%20views&color=0e75b6&style=flat" alt="vinay-nb" /> </p>
-
-<p align="left"> <a href="https://twitter.com/vinay_nb7" target="blank"><img src="https://img.shields.io/twitter/follow/vinay_nb7?logo=twitter&style=for-the-badge" alt="vinay_nb7" /></a> </p>
-
 - 🔭 I’m currently working on [Foodie](https://github.com/vinay-nb/Foodie)
 
 - 🌱 I’m currently learning **NodeJS**
