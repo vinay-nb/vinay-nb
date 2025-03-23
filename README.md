@@ -1,28 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay Bhat</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-- 🔭 I’m currently working on [Foodie](https://github.com/vinay-nb/Foodie)
-
-- 🌱 I’m currently learning **NodeJS**
-
-- 👯 I’m looking to collaborate on [Foodie](https://github.com/vinay-nb/Foodie)
-
-- 🤝 I’m looking for help with [Foodie](https://github.com/vinay-nb/Foodie)
-
-- 👨‍💻 All of my projects are available at [https://uivinaybhat.netlify.app/](https://uivinaybhat.netlify.app/)
-
-- 📝 I regularly write articles on [https://vinaytechblogs.netlify.app/](https://vinaytechblogs.netlify.app/)
-
-- 💬 Ask me about **React, JavaScript, TypeScript, HTML, SCSS, CSS, Tailwind**
-
-- 📫 How to reach me **vinayn075@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1p3T5C8Tth7hZ-vtQkitev2rTTMGsZpxI/view?usp=drive_link](https://drive.google.com/file/d/1p3T5C8Tth7hZ-vtQkitev2rTTMGsZpxI/view?usp=drive_link)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/vinaybhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vinaybhat" height="30" width="40" /></a>
